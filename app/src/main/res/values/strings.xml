@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas Pertemuan 3</string>
+    <string name="back_button_desc">Back</string>
+    <string name="menu_button_desc">Menu</string>
+    <string name="prev_button_desc">Previous</string>
+    <string name="play_button_desc">Play</string>
+    <string name="next_button_desc">Next</string>
+    <string name="title_song">Sunset di Tanah Anarki</string>
+    <string name="band_name">Superman Is Dead</string>
+    <string name="description_content">Song Image View</string>
+</resources>
